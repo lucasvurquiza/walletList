@@ -36,4 +36,6 @@
 
 #### Tela Principal
 
-<img src='./src/assets/screenMain.jpg' alt='Tela Principal' style='zoom:70%; border-radius: 10px;'/>
+<kbd>
+  <img src='./src/assets/screenMain.jpg' alt='Tela Principal' style='zoom:70%; border-radius: 10px;'/>
+</kbd>
